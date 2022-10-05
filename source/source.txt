@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello there!!!
 
 Général Kenobi!!
+=======
+Yo man !!
+Hello there!!!
+>>>>>>> main
